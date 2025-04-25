@@ -1,4 +1,4 @@
 # craftland-map-code
-You will Find Craftland Map Code here.
+You will find craftland Map Code here.
 <br>
 Author - Sachin Kumar
